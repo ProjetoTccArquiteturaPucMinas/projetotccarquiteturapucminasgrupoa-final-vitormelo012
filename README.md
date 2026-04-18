@@ -1,6 +1,6 @@
 # Sistema de Cálculo de Descontos para Marketplace
 
-## Seu Nome: 
+## Seu Nome: Vitor Pereira Leite de Melo
 
 ## Visão Geral do Projeto
 
